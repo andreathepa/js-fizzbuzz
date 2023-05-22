@@ -7,6 +7,8 @@
 
 // Quando stampa multipli di 3 e 5 fizzbuzz
 
+//BONUS 1
+
 
  let todo_list = document.getElementById('todo')
 
